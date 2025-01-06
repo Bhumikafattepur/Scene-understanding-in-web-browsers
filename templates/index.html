@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Scene Understanding</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: #f8f9fa;
+            color: #444;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+        }
+        .container {
+            background: #fff;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            max-width: 500px;
+            width: 100%;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+        .form-group label {
+            color: #666;
+            font-weight: bold;
+        }
+        .form-control {
+            border-radius: 8px;
+            padding: 12px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+        }
+        .btn-primary {
+            background-color: #6a11cb;
+            border-color: #6a11cb;
+            border-radius: 8px;
+            padding: 12px 20px;
+            font-size: 16px;
+            transition: background-color 0.3s, border-color 0.3s;
+        }
+        .btn-primary:hover {
+            background-color: #2575fc;
+            border-color: #2575fc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container text-center">
+        <h1>Summarize Webpage</h1>
+        <form method="POST" action="/process_url">
+            <div class="form-group">
+                <label for="input_url">Enter Website:</label>
+                <input type="text" class="form-control" id="input_url" name="input_url" required>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Summarize</button>
+        </form>
+    </div>
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

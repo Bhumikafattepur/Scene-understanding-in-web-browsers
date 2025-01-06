@@ -1,0 +1,72 @@
+Essay on Artificial Intelligence – Artificial intelligence is a volume of computer science that highlights the creation of intelligent technologies that work and responds like humans. Some of the technologies that can allow these systems in analyzing and understanding all the information that is received are natural language processing and inference engines.
+
+essay on Artificial Intelligence
+
+Artificial intelligence is a system that provides action through technologies such as expert systems and inference engines to operate in the physical world.
+
+Artificial Intelligence is being increasingly used in numerous fields like medical diagnosis, robots, stock trading, scientific discovery, and the automobile industry.
+
+What is Artificial Intelligence
+Artificial intelligence is a branch of computer science that aims to create intelligent machines. Artificial intelligence is the simulation of human intelligence processes by machines based on computer systems. These processes include learning, which is the acquisition of information and rules for using information, reasoning which is using rules to reach predictable or definite conclusions, and self-correction.
+
+Impact of Artificial Intelligence
+Artificial intelligence has emerged as a new factor of production, complementing the traditional factors of production such as labor, capital, and innovation. AI has the potential to cross the boundaries of capital and labor and open up new sources of value and growth.
+
+Artificial Intelligence innovations in one area have positive results in another, as the industrial sectors are interdependent. Economic value is expected to be created from new goods, services, and innovations produced by AI. Beyond the economic impact, Artificial Intelligence will also have a transformative impact on larger items of Indian society. It will be improving the quality of life and access of choice to a large section of the country.
+
+Artificial Intelligence has a huge potential to transform the socio-economic system as its impact on every industrial or service sector is undeniable. It will give a new place to the world through automation, intelligence and creation. Thus, it will make some jobs redundant, while it increases the efficiency of other jobs and will create more jobs.
+
+Global Developments in Artificial Intelligence
+The economic and social benefits of applied Artificial Intelligence (AI) are Familiar in all the countries of the world. In the area of core research in Artificial Intelligence and related technologies, universities and research institutions from the United States, China, and Japan have led the publication volume on AI research topics between 2010 and 2016.
+
+Potential of Artificial Intelligence (AI) Governance structures for enabling all the above mandates across countries. Many countries have established dedicated public offices such as the Ministry of AI (UAE), and Artificial Intelligence and AI Council (U.K.), while Japan China has allowed existing ministries to implement artificial intelligence in their sectoral areas.
+
+Advantages of Artificial Intelligence (or Pros of AI)
+Artificial Intelligence mainly helps us in Error Reduction as the machines work in a systematic way than humans, which gives us a Higher Degree of Precession.
+In daily applications like Alexa, Google Assistant, and Siri which are known as Digital Assistants, Artificial Intelligence is helping humans to lead a better life at no extra cost.
+Artificial Intelligence based machines can take over Repetitive Jobs which are monotonous in nature, which expands human creativity and productivity in some other fields.
+Artificial Intelligence programmed robots can perform more Laborious Hard Work than human beings, as humans are subjected to tiredness, fatigue, etc.
+The disadvantage of Artificial Intelligence (or Cons of AI)
+Artificial Intelligence systems are very expensive to develop and maintain.
+As we have a limited amount of data and resources, Artificial Intelligence cannot replicate the Human Level of Intelligence.
+Artificial Intelligence is Data Hungry. The more accurate data you feed during the machine learning process, the more accurate your results will be.
+Expert says Artificial Intelligence can replace all Boring, Repetitive, and Labour Intensive work.
+Artificial Intelligence cannot be Creative as we Humans.
+Application of Artificial Intelligence (AI)
+Agriculture
+Artificial Intelligence has a major role to play in driving a food revolution and meeting the increased demand for food. Applied Artificial Intelligence addresses challenges such as lack of assured irrigation, inadequate demand prediction, excess use of pesticides, fertilizers, and fungicides. Some uses include better crop production through detecting pest attacks, forecasting crop prices, and real-time advice.
+
+Manufacturing
+It can enable flexible and adaptable technical systems to facilitate various processes and machinery to respond to unfamiliar or unpredictable situations by making “smart decisions” through flexible and adaptable technical systems. Areas of influence include engineering, supply chain management, production, maintenance, quality assurance, and plant logistics and warehousing.
+
+Healthcare
+Artificial Intelligence plays an important role in the field of healthcare by addressing issues of high barriers, particularly in rural areas that lack poor communication and a professional healthcare system. Some of the emerging applications include AI-driven diagnostics, personalized treatment, early detection of potential epidemics, and imaging diagnostics.
+
+Retail
+Being one of the early adopters of Artificial Intelligence solutions, it provides applications such as developing user experience by personalized suggestions, image-based product search, and preference-based browsing.
+
+Education and Skilling
+Artificial Intelligence provides the need for student intervention to provide solutions to quality and accessibility issues in the Indian education sector and enhance the learning experience through personalized learning, automate and expedite administrative tasks, and reduce dropouts.
+
+Smart Cities
+The incorporation of applied Artificial Intelligence in developing cities could also help in meeting the demands of a rapidly growing population and providing them with enhanced quality of life. Traffics control for reducing congestion enhanced security by providing improved crowd management are some of the potential uses of Artificial Intelligence systems.
+
+AI and Creation of Better Paying Jobs
+The use of artificial intelligence in the workplace is expected to create 133 million new roles, but 75 million jobs could be displaced by 2022, according to the World Economic Forum (WEF) report ‘The Future of Jobs Report. This means that the development of artificial intelligence could create 58 million net new jobs in the next few years. The areas where AI will have a positive impact are:
+
+The education industry is slowly moving towards e-learning concepts such as smart content, online education, personalized learning, and other data-driven operations that rely heavily on AI. Hence, this Artificial Intelligence industry will need to hire a lot of AI and Machine Learning experts. Apart from these, new jobs will be created in the field of the gaming industry, robotics industries, and cyber security.
+
+The demand for professional service talent will be increased, with an emphasis on technical talent dealing with communication, logic and construction, and computer technologies.
+
+Artificial Intelligence is now helping companies generate more profits and grow their businesses and as a result, they will need a global workforce that can generate huge employment opportunities.
+
+Challenges of Artificial Intelligence in India
+Lack of sufficient talent to build and deploy artificial intelligence systems at scale. There is an estimated claim that only 4 percent of Artificial Intelligence professionals in India work on emerging technologies like deep learning and neural networks. There is also a significant difference in Ph.D. research scholars in the field.
+Expensive cost and low availability of computing infrastructure required for the development, training, and deployment of AI-based services. Cloud infrastructure, through rapid growth, has limited capability.
+Concern over data privacy and security, including lack of formal regulation around data anonymity.
+The lack of AI awareness in resolving business-related issues in most public enterprises and government agencies has led to a shortage of AI professionals in obstructing adoption.
+Lack of infrastructure is the major cause of many Indian AI start-ups aiming to involve their businesses outside the country, thus, making AI out of the reach of Indian researchers in government laboratories and in many industries.
+Conclusion about AI
+Every new invention has some positive and negative aspects but we must use the positive aspects of the invention to create a better world. Some even say that artificial intelligence can destroy human civilization if it goes into the wrong hands. But still, no artificial intelligence application was created that could destroy humanity from the earth.
+
+In this way, in the medium and long term, AI will produce better-paying jobs and enhance and develop the human resource of the country and the world.

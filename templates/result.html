@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>URL Summarization Result</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Summarized URL Content</h1>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Original Content</h5>
+                <p class="card-text">{{ ctext }}</p>
+                <h5 class="card-title">Summarized Content</h5>
+                <p class="card-text">{{ final_summary }}</p>
+                <h5 class="card-title">Extracted Images</h5>
+                {% for img in images %}
+                    <img src="{{ img }}" class="img-fluid mt-3" alt="Image from URL">
+                {% endfor %}
+            </div>
+        </div>
+        <a href="/" class="btn btn-primary mt-3">Go Back</a>
+    </div>
+</body>
+</html>

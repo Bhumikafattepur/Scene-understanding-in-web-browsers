@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Scene Understanding</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            color: #333; /* Text color */
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding-top: 30px;
+            margin: 0 auto;
+            max-width: 800px; /* Adjust based on your preference */
+        }
+        h1, h2 {
+            margin-top: 20px;
+            font-weight: bold;
+            color: #6c757d; /* Heading color */
+        }
+        .summary-section {
+            margin-top: 20px;
+        }
+        .image-section {
+            margin-top: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Box shadow for images */
+        }
+        .card {
+            border: none; /* Remove border from cards */
+            background-color: #fff; /* Card background color */
+        }
+        .card-text {
+            color: #555; /* Caption text color */
+        }
+        p {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="google_element"></div>
+    </div>
+
+    <script src="http://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
+    <script>
+        function loadGoogleTranslate() {
+            new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_element');
+        }
+    </script>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-center">Web Scene Understanding</h1>
+                <div class="summary-section">
+                    <h2>Original Content:</h2>
+                    <p>{{ ctext }}</p>
+                </div>
+                <div class="summary-section">
+                    <h2>Summary:</h2>
+                    <p>{{ final_summary }}</p>
+                </div>
+                <div class="image-section">
+                    <h2>Images:</h2>
+                    {% for image in images %}
+                        <div class="card mb-4">
+                            <img src="{{ image.src }}" class="card-img-top" alt="Image from URL">
+                            <div class="card-body">
+                                <p class="card-text"><strong>Caption:</strong> {{ image.caption }}</p>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+                <div class="summary-section">
+                    <p><strong>Original Reading Time:</strong> {{ final_reading_time }} minutes</p>
+                    <p><strong>Summary Reading Time:</strong> {{ summary_reading_time }} minutes</p>
+                    <p><strong>Processing Time:</strong> {{ final_time }} seconds</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
